@@ -23,4 +23,9 @@
 
 [![testplan](https://img.shields.io/badge/-testplan-090909?style=for-the-badge&color=maroon)](https://docs.google.com/document/d/1BGueU9fB0Vf0XJHrVROz6h4MqZonQTBGVgm8x7y8TXs/edit?usp=sharing)
 
+## Contact info
+[![telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](http://t.me/from_names_import_smth)
+
+[![linkeid](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/dmitriy-lukaniuk-0ba41a231/)
+
 My CV
