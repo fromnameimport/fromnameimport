@@ -1,8 +1,8 @@
 [![Header](https://github.com/fromnameimport/fromnameimport/blob/main/assets/hello.gif)](https://drive.google.com/file/d/196ExGaC_xpV91ufAJMsTb6Kebu4MFRS4/view?usp=sharing)
 
-## I'm a beginner manual QA Engineer
+# I'm a beginner manual QA test engineer
 
-Languages and tools
+## Languages and tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css)
@@ -14,8 +14,13 @@ Languages and tools
 ![testrail](https://img.shields.io/badge/-Testrail-090909?style=for-the-badge&logo=smth)
 ![fiddler](https://img.shields.io/badge/-Charlesproxy-090909?style=for-the-badge&logo=fiddler)
 
+## Tetsing documentation:
+[![testcase](https://img.shields.io/badge/-TestCase-090909?style=for-the-badge&color=orange)](https://docs.google.com/spreadsheets/d/1PxnucuKrqs2FTffwfrs36nbVYRV9wDZQfqXDxCQFfo4/edit?usp=sharing)
 
+[![checklist](https://img.shields.io/badge/-checklist-090909?style=for-the-badge&color=red)](https://docs.google.com/spreadsheets/d/1mNENUnZJWz20co2YXgY16VyMbDAN8L8-RUUGNkugE_Q/edit?usp=sharing)
 
-Tetsing documentation:
+[![bugreport](https://img.shields.io/badge/-bugreport-090909?style=for-the-badge&color=brown)](https://docs.google.com/document/d/1jFu4LnwK9yayXdtC2XaEi_WTw8Pn6KyJWfUgVAZMZ-Y/edit?usp=sharing)
+
+[![testplan](https://img.shields.io/badge/-testplan-090909?style=for-the-badge&color=maroon)](https://docs.google.com/document/d/1BGueU9fB0Vf0XJHrVROz6h4MqZonQTBGVgm8x7y8TXs/edit?usp=sharing)
 
 My CV
