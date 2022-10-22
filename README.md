@@ -26,7 +26,7 @@
 [![linkeid](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/dmitriy-lukaniuk-0ba41a231/)
 
 ## My CV
-[![CV](https://img.shields.io/badge/-CVlink-090909?style=for-the-badge&logo=CV&color=informational)]([https://drive.google.com/file/d/1V5AfsXyTXjCRcwN3gJ6p-3bnAf7Hmhcb/view?usp=sharing](https://drive.google.com/file/d/1lcj_k3WVlDC1qWu2a8mE5dcwNGkuk5s5/view?usp=sharing)
+[![CV](https://img.shields.io/badge/-CVlink-090909?style=for-the-badge&logo=CV&color=informational)](https://drive.google.com/file/d/1lcj_k3WVlDC1qWu2a8mE5dcwNGkuk5s5/view?usp=sharing)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fromnameimport&count_private=true&show_icons=true&theme=dark&icon_color=informational&border_color=blue)](https://github.com/anuraghazra/github-readme-stats)
 
