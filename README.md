@@ -16,11 +16,8 @@
 
 ## Tetsing documentation:
 [![testcase](https://img.shields.io/badge/-TestCase-090909?style=for-the-badge&color=orange)](https://docs.google.com/spreadsheets/d/1PxnucuKrqs2FTffwfrs36nbVYRV9wDZQfqXDxCQFfo4/edit?usp=sharing)
-
 [![checklist](https://img.shields.io/badge/-checklist-090909?style=for-the-badge&color=red)](https://docs.google.com/spreadsheets/d/1mNENUnZJWz20co2YXgY16VyMbDAN8L8-RUUGNkugE_Q/edit?usp=sharing)
-
 [![bugreport](https://img.shields.io/badge/-bugreport-090909?style=for-the-badge&color=brown)](https://docs.google.com/document/d/1jFu4LnwK9yayXdtC2XaEi_WTw8Pn6KyJWfUgVAZMZ-Y/edit?usp=sharing)
-
 [![testplan](https://img.shields.io/badge/-testplan-090909?style=for-the-badge&color=maroon)](https://docs.google.com/document/d/1BGueU9fB0Vf0XJHrVROz6h4MqZonQTBGVgm8x7y8TXs/edit?usp=sharing)
 
 ## Contact info
@@ -28,4 +25,5 @@
 
 [![linkeid](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/dmitriy-lukaniuk-0ba41a231/)
 
-My CV
+## My CV
+[![CV](https://img.shields.io/badge/-CVlink-090909?style=for-the-badge&logo=CV&color=informational)](https://drive.google.com/file/d/1V5AfsXyTXjCRcwN3gJ6p-3bnAf7Hmhcb/view?usp=sharing)
