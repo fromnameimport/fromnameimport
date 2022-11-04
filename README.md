@@ -14,7 +14,7 @@
 ![testrail](https://img.shields.io/badge/-Testrail-090909?style=for-the-badge&logo=smth)
 ![fiddler](https://img.shields.io/badge/-Charlesproxy-090909?style=for-the-badge&logo=fiddler)
 
-## Tetsing documentation:
+## Tetsing documentation (press the buttons):
 [![testcase](https://img.shields.io/badge/-TestCase-090909?style=for-the-badge&color=orange)](https://docs.google.com/spreadsheets/d/1PxnucuKrqs2FTffwfrs36nbVYRV9wDZQfqXDxCQFfo4/edit?usp=sharing)
 [![checklist](https://img.shields.io/badge/-checklist-090909?style=for-the-badge&color=red)](https://docs.google.com/spreadsheets/d/1mNENUnZJWz20co2YXgY16VyMbDAN8L8-RUUGNkugE_Q/edit?usp=sharing)
 [![bugreport](https://img.shields.io/badge/-bugreport-090909?style=for-the-badge&color=brown)](https://docs.google.com/document/d/1jFu4LnwK9yayXdtC2XaEi_WTw8Pn6KyJWfUgVAZMZ-Y/edit?usp=sharing)
