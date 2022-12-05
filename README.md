@@ -26,7 +26,7 @@
 [![linkeid](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/dmitriy-lukaniuk-0ba41a231/)
 
 ## My CV
-[![CV](https://img.shields.io/badge/-CVlink-090909?style=for-the-badge&logo=CV&color=informational)](https://drive.google.com/file/d/1DvqybptwPsxmudvpyCgOPNVNrkfeses8/view?usp=share_link)
+[![CV](https://img.shields.io/badge/-CVlink-090909?style=for-the-badge&logo=CV&color=informational)](https://drive.google.com/file/d/1jUHjOEjODjmOIrZ_XBMTwvp1vMAOmaQN/view?usp=sharing)
 
 ## CodeWars stats
 ![](https://github-readme-codewars-stats.herokuapp.com/api/?username=fromnameimport&card&colormode=dark_mode)
