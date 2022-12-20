@@ -29,7 +29,7 @@
 [![CV](https://img.shields.io/badge/-CVlink-090909?style=for-the-badge&logo=CV&color=informational)](https://drive.google.com/file/d/1jUHjOEjODjmOIrZ_XBMTwvp1vMAOmaQN/view?usp=sharing)
 
 ## CodeWars stats
-![](https://github-readme-codewars-stats.herokuapp.com/api/?username=fromnameimport&card&colormode=dark_mode)
+![](https://github-readme-codewars-stats.herokuapp.com/api/?username=vanhaaggen&card&colormode=dark_modee)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fromnameimport&count_private=true&show_icons=true&theme=dark&icon_color=informational&border_color=blue)](https://github.com/anuraghazra/github-readme-stats)
 
