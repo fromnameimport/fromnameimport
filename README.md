@@ -1,14 +1,21 @@
 [![Header](https://github.com/fromnameimport/fromnameimport/blob/main/assets/hello.gif)](https://drive.google.com/file/d/196ExGaC_xpV91ufAJMsTb6Kebu4MFRS4/view?usp=sharing)
 
-# Hi! I'm a beginner manual QA test engineer
+# Hi! I'm a general QA test engineer
 
 ## Languages and tools
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white)
+![JUnit](https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
-![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=)
-![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/-MYSQL-090909?style=for-the-badge&logo=mysql)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Jira](https://img.shields.io/badge/-jira-090909?style=for-the-badge&logo=jira&logoColor=blue)
-![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=github&logoColor=lightblue)
 ![DevTools](https://img.shields.io/badge/-DevTools-090909?style=for-the-badge&logo=developtools)
 ![testrail](https://img.shields.io/badge/-Testrail-090909?style=for-the-badge&logo=smth)
@@ -26,7 +33,7 @@
 [![linkeid](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/dmitriy-lukaniuk-0ba41a231/)
 
 ## My CV
-[![CV](https://img.shields.io/badge/-CVlink-090909?style=for-the-badge&logo=CV&color=informational)](https://drive.google.com/file/d/1jUHjOEjODjmOIrZ_XBMTwvp1vMAOmaQN/view?usp=sharing)
+[![CV](https://img.shields.io/badge/-CVlink-090909?style=for-the-badge&logo=CV&color=informational)](https://drive.google.com/file/d/1rBcRxH0Sz4o22Xi8WQtO5NZLk2BtqH2m/view?usp=sharing)
 
 ## CodeWars stats
 ![Codewars](https://github.r2v.ch/codewars?user=fromnameimport&stroke=%23BB432C)
