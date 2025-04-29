@@ -34,6 +34,10 @@ I build scalable, secure applications with modern tools and practices.
 
 ## Connect
 
-Connect on [LinkedIn](https://linkedin.com/in/dmytro-lukaniuk-0ba41a231)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dmytro-lukaniuk-0ba41a231)
 
-![Snake animation](https://github.com/fromnameimport/fromnameimport/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake Animation" src="https://github.com/fromnameimport/fromnameimport/blob/output/github-contribution-grid-snake.svg" />
+</picture>
