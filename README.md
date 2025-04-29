@@ -1,44 +1,39 @@
-[![Header](https://github.com/fromnameimport/fromnameimport/blob/main/assets/hello.gif)](https://drive.google.com/file/d/196ExGaC_xpV91ufAJMsTb6Kebu4MFRS4/view?usp=sharing)
+# Software Engineer
 
-# Hi! I'm a general QA test engineer
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-## Languages and tools
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white)
-![JUnit](https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/-MYSQL-090909?style=for-the-badge&logo=mysql)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Jira](https://img.shields.io/badge/-jira-090909?style=for-the-badge&logo=jira&logoColor=blue)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=github&logoColor=lightblue)
-![DevTools](https://img.shields.io/badge/-DevTools-090909?style=for-the-badge&logo=developtools)
-![testrail](https://img.shields.io/badge/-Testrail-090909?style=for-the-badge&logo=smth)
-![fiddler](https://img.shields.io/badge/-Charlesproxy-090909?style=for-the-badge&logo=fiddler)
+Hi!
+I'm a Software Engineer specializing in Java-based backend development with solid experience as Automation QA engineer. 
+I build scalable, secure applications with modern tools and practices.
 
-## Tetsing documentation (press the buttons):
-[![testcase](https://img.shields.io/badge/-TestCase-090909?style=for-the-badge&color=orange)](https://docs.google.com/spreadsheets/d/1PxnucuKrqs2FTffwfrs36nbVYRV9wDZQfqXDxCQFfo4/edit?usp=sharing)
-[![checklist](https://img.shields.io/badge/-checklist-090909?style=for-the-badge&color=red)](https://docs.google.com/spreadsheets/d/1mNENUnZJWz20co2YXgY16VyMbDAN8L8-RUUGNkugE_Q/edit?usp=sharing)
-[![bugreport](https://img.shields.io/badge/-bugreport-090909?style=for-the-badge&color=brown)](https://docs.google.com/document/d/1jFu4LnwK9yayXdtC2XaEi_WTw8Pn6KyJWfUgVAZMZ-Y/edit?usp=sharing)
-[![testplan](https://img.shields.io/badge/-testplan-090909?style=for-the-badge&color=maroon)](https://docs.google.com/document/d/1BGueU9fB0Vf0XJHrVROz6h4MqZonQTBGVgm8x7y8TXs/edit?usp=sharing)
+---
 
-## Contact info
-[![telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](http://t.me/from_names_import_smth)
+## Tech Stack
 
-[![linkeid](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/dmitriy-lukaniuk-0ba41a231/)
-
-## My CV
-[![CV](https://img.shields.io/badge/-CVlink-090909?style=for-the-badge&logo=CV&color=informational)](https://drive.google.com/file/d/1rBcRxH0Sz4o22Xi8WQtO5NZLk2BtqH2m/view?usp=sharing)
-
-## CodeWars stats
-![Codewars](https://github.r2v.ch/codewars?user=fromnameimport&stroke=%23BB432C)
+| **Category**              | **Technologies & Tools**                                                                                                                                       |
+|---------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Programming Languages** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white) |
+| **Frameworks & Libraries**| ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white) ![Selenide](https://img.shields.io/badge/selenide-%23FF3E3E.svg?style=flat-square) ![TestNG](https://img.shields.io/badge/testng-%230096D6.svg?style=flat-square) ![JUnit](https://img.shields.io/badge/junit-%2325A162.svg?style=flat-square) |
+| **Databases**             | ![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=flat-square) |
+| **DevOps & CI/CD**        | ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) |
+| **Security & Testing**     | ![Burp Suite](https://img.shields.io/badge/burp%20suite-%23FF6633.svg?style=flat-square) ![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=flat-square&logo=postman&logoColor=white) ![Selenide](https://img.shields.io/badge/selenide-%23FF3E3E.svg?style=flat-square) |
+| **Frontend Technologies** | ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) |
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fromnameimport&count_private=true&show_icons=true&theme=dark&icon_color=informational&border_color=blue)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+## Pet Projects
+
+- **TrackMyCareer (link is not available, in progress)**
+  Application to track and manage job applies + build in ai CV enhancer
+  Built with ![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white) + ![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=flat-square&logo=postgresql&logoColor=white). Secured with Spring Security, containerized via ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white). 
+  Automated builds with ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white) and ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white) scripts, deployed via ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white). 
+    
+
+---
+
+## Connect
+
+Connect on [LinkedIn](https://linkedin.com/in/dmytro-lukaniuk-0ba41a231)
 
 ![Snake animation](https://github.com/fromnameimport/fromnameimport/blob/output/github-contribution-grid-snake.svg)
